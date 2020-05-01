@@ -11,9 +11,9 @@ DOI: https://doi.org/10.1016/j.electacta.2020.136034
 
 If you have questions or comments, please send message to: Francois.UsseglioViretta@nrel.gov
 
-The model homepage is:
-Secondary pore network design optimization analytical diffusion model for lithium ion battery. https://www.nrel.gov/transportation/electrode_secondaryporenetwork.html.
-Tutorial video is available at https://www.youtube.com/watch?v=5RxZEIxKzzQ&feature=emb_logo
+The model homepage is:\
+Secondary pore network design optimization analytical diffusion model for lithium ion battery. https://www.nrel.gov/transportation/electrode_secondaryporenetwork.html.\
+Tutorial video is available at https://www.youtube.com/watch?v=5RxZEIxKzzQ&feature=emb_logo\
 
 ## Presentation
 
