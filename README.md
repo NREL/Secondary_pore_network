@@ -11,6 +11,10 @@ DOI: https://doi.org/10.1016/j.electacta.2020.136034
 
 If you have questions or comments, please send message to: Francois.UsseglioViretta@nrel.gov
 
+The model homepage is:
+Secondary pore network design optimization analytical diffusion model for lithium ion battery. https://www.nrel.gov/transportation/electrode_secondaryporenetwork.html.
+Tutorial video is available at https://www.youtube.com/watch?v=5RxZEIxKzzQ&feature=emb_logo
+
 ## Presentation
 
 Fast ion transport along the electrode thickness is required for Lithium ion battery (LIB) to sustain continuous high-rate discharge or charge currents, which is a desired feature for the fast charging of electric vehicle batteries. Advance in LIB electrode manufacturing allows to control, to a certain extent, the electrode microstructure architecture in order to improve the macroscopic performances of these devices. For instance, several groups have experimentally tested architectures tailored specifically to increase the through plane ionic diffusion in regards for fast charge application by adding channels or groove-like large pores oriented along the electrode thickness. These voids do not replace the existing pores of the electrode microstructure but consist in a second, coarser, pore network, called the secondary pore network (SPN).
