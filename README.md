@@ -4,10 +4,10 @@ Repository of Secondary Pore Network (SPN) analytical model applied to battery e
 ## Auhtors
 This model has been published along with the article below. Please quote it if distributing the model and/or results obtained with it.
 
-F. L. E. Usseglio-Viretta<sup>a</sup>, W. Mai<sup>a</sup>, A. Colclasure<sup>a</sup>, M. Doeff<sup>b</sup>, and K. Smith<sup>a</sup>, Enabling Fast Charging of Lithium Ion Battery Through Secondary/dual Pore Network: Part I – analytical diffusion model, Electrochemica Acta, 2019.\
+F. L. E. Usseglio-Viretta<sup>a</sup>, W. Mai<sup>a</sup>, A. Colclasure<sup>a</sup>, M. Doeff<sup>b</sup>, Eongyu Yi<sup>b</sup>, and K. Smith<sup>a</sup>, Enabling Fast Charging of Lithium Ion Battery Through Secondary/dual Pore Network: Part I – analytical diffusion model, Electrochemica Acta, 342 (2020) 136034.\
 <sup>a</sup> Transportation and Hydrogen Systems Center, National Renewable Energy Laboratory, Golden, Colorado 80401, USA\
 <sup>b</sup> Energy Storage & Distributed Resources Division, Lawrence Berkeley National Laboratory, Berkeley, CA 94720, USA\
-DOI: *
+DOI: https://doi.org/10.1016/j.electacta.2020.136034
 
 If you have questions or comments, please send message to: Francois.UsseglioViretta@nrel.gov
 
@@ -28,3 +28,6 @@ Optimal design parameter are chosen according to three different, non equivalent
 Model runs within the MATLAB live editor environment: code is hidden (but accessible if user wish to see it) leaving visible only formatted text, equations, pictures, and results. Documentation is included directly in the live editor environment. Parameter inputs are entered with a graphic user interface (edit field, slider, check box, push button, and drop down buttons). Results are generated in figures, in the MATLAB window but can also be automatically saved in png and fig format in a user-defined folder.
 
 No external inputs are required. A tutorial video is attached.
+
+# Note:
+The model file uses the term 'reference electrode' while the article uses the term 'baseline electrode' to speak of the unstructured electrode.
