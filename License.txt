@@ -9,7 +9,7 @@ identical gravimetric and identical volumetric specific theoretical capacity.
 For support with this application please contact Francois Usseglio-Viretta at:
 francois.usseglioviretta@nrel.gov
 
-Copyright (c) 2020, Alliance for Sustainable Energy, LLC
+Copyright (c) 2019, Alliance for Sustainable Energy, LLC
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
